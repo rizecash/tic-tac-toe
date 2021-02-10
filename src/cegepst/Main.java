@@ -4,9 +4,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class Main {
-    /**
-     * @Author kevbon
-    **/
+
     public static void main(String[] args) {
 
         char board[][] = new char[4][4];
